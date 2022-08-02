@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --gray-50: #f8f8f8;
+  --gray-100: #d7d7d7;
+  --gray-200: #bbbbbb;
+  --gray-700: #1a1d23;
+  --pink: #ff57b2;
+}
+
+body,
+input,
+textarea,
+select,
+button {
+  font: 400 1rem "Inter", sans-serif;
+}
+
+body {
+  background-color: var(--gray-700);
+  color: var(--gray-100);
+}
+
+main {
+  height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,0 +1,128 @@
+.postList {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+
+  > .post {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 90%;
+    text-align: justify;
+    &:hover {
+      h3 {
+        color: var(--pink);
+      }
+    }
+
+    > h3 {
+      font-size: 18px;
+      color: var(--gray-50);
+      line-height: 24px;
+      letter-spacing: 0.5px;
+      transition: all 0.5s;
+    }
+
+    > p {
+      color: var(--gray-100);
+      font-size: 14px;
+      letter-spacing: 0.5px;
+      line-height: 20px;
+    }
+
+    > .info {
+      width: 100%;
+      display: flex;
+      gap: 20px;
+      font-size: 14px;
+      color: var(--gray-200);
+
+      > span {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+    }
+  }
+
+  a:last-child {
+    margin-bottom: 40px;
+  }
+}
+.loadMoreContainer {
+  padding-bottom: 40px;
+  > button {
+    background-color: transparent;
+    border: none;
+    color: var(--pink);
+    font-size: 14px;
+    transition: all 0.5s;
+    &:hover {
+      filter: opacity(50%);
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .postList {
+    > .post {
+      width: 70%;
+
+      > h3 {
+        font-size: 24px;
+        line-height: 32px;
+      }
+
+      > p {
+        font-size: 18px;
+        letter-spacing: 0.5px;
+        line-height: 25px;
+      }
+
+      > .info {
+        font-size: 16px;
+        svg {
+          height: 24px;
+          width: 24px;
+        }
+
+        > span {
+          display: flex;
+          align-items: center;
+          gap: 5px;
+        }
+      }
+    }
+  }
+  .loadMoreContainer {
+    button {
+      font-size: 16px;
+    }
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .postList {
+    > .post {
+      width: 50%;
+
+      > h3 {
+        font-size: 28px;
+        line-height: 33.89px;
+      }
+
+      > p {
+        font-size: 18px;
+        line-height: 25px;
+      }
+    }
+  }
+
+  .loadMoreContainer {
+    button {
+      font-size: 18px;
+    }
+  }
+}
