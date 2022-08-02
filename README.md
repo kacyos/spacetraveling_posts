@@ -85,10 +85,10 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/kacyos/criando-um-projeto-do-zero
+$ git clone https://github.com/kacyos/spacetraveling_posts.git
 
 # Entre na pasta
-$ cd criando-um-projeto-do-zero
+$ cd spacetraveling_posts
 
 # Instale as dependências
 $ yarn
