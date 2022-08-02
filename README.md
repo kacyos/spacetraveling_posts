@@ -9,17 +9,17 @@
 <h1 align="center">Spacetraveling</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/kacyos/criando-um-projeto-do-zero?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/kacyos/spacetraveling_posts?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/kacyos/criando-um-projeto-do-zero?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/kacyos/spacetraveling_posts?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/kacyos/criando-um-projeto-do-zero?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/kacyos/spacetraveling_posts?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/kacyos/criando-um-projeto-do-zero?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/kacyos/spacetraveling_posts?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/kacyos/criando-um-projeto-do-zero?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/kacyos/spacetraveling_posts?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/kacyos/criando-um-projeto-do-zero?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/kacyos/spacetraveling_posts?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
