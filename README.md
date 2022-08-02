@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
-  <a href="#test_tube-testes">Testes</a> &#xa0; | &#xa0;
+  <a href="#-testes">Testes</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
